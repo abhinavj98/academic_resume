@@ -28,7 +28,7 @@ education:
     - course: PhD in Robotics
       institution: Oregon State University
       year: 2021 - Present
-    - course: Bachelor's in Technology
+    - course: Bachelors in Technology
       institution: NIT Surat
       year: 2020
 
