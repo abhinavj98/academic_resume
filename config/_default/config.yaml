@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Abhinav Jain # Website name
-baseURL: 'https://theabhinavjainn.com' # Website URL
+baseURL: 'https://theabhinavjain.com' # Website URL
 
 ############################
 ## LANGUAGE
