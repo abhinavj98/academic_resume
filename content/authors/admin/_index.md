@@ -66,8 +66,10 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+lson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Hey!
-I am Abhinav Jain, a PhD student at Oregon State University working under Dr. Cindy Grimm, and Dr. Stefan Lee. I have previous work experience working as an Engineer at Samsung R&D, Bangalore, India. I am working in the AgAID grant which collaborates AI and agriculture. I want to make robots smarter, and compliant to the ever changing world. Currently I am working on control using Reinforcement Learning for the task of pruning trees in an orchard.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+# (Hey!
+I am Abhinav Jain, a PhD student at Oregon State University working under Dr. Cindy Grimm, and Dr. Stefan Lee. I have previous work experience working as an Engineer at Samsung R&D, Bangalore, India. I am working in the AgAID grant which collaborates AI and agriculture. I want to make robots smarter, and compliant to the ever changing world. Currently I am working on control using Reinforcement Learning for the task of pruning trees in an orchard.)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
