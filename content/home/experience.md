@@ -42,7 +42,7 @@ experience:
     location: Bangalore, India
     date_start: '2021-01-01'
     date_end: '2021-08-31'
-    description:|2-
+    description: |2-
      
         * Engineer in the 5G NR MAC team
         * Contributed by writing Unit Tests and Block Tests according to the Google Test framework and increasing the Test coverage metric from 2.1 to 3.2, beyond the required threshold of 3
@@ -54,7 +54,7 @@ experience:
       location: Bangalore, India
       date_start: '2020-07-01'
       date_end: '2021-01-31'
-      description:|2-
+      description: |2-
      
         * Research Intern at Robert Bosch Centre for Cyber-Physical Systems, IISc Bangalore, under Dr. Chiranjeeb Bhatacharyya.
         * Worked with projects that included LiDAR reconstruction without occlusions, and explainable AI.
@@ -65,7 +65,7 @@ experience:
       location: Surat, India
       date_start: '2019-05-01'
       date_end: '2020-01-31'
-      description:|2-
+      description: |2-
      
         * Hired in the role of an undergraduate Machine Learning Intern
         * Worked on a deep learning model to decide on the best thumbnail frame for a video.
