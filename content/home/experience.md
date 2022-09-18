@@ -25,7 +25,7 @@ experience:
   - title: Graduate Research Assistant
     company: Oregon State University
     company_url: 'https://robotics.oregonstate.edu/'
-    company_logo: osu_logo
+    company_logo: org-x
     location: Corvallis, OR
     date_start: '2021-12-15'
     date_end: ''
