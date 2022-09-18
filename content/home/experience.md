@@ -38,7 +38,7 @@ experience:
   - title: Engineer
     company: Samsung R&D
     company_url: 'https://research.samsung.com/sri-b'
-    company_logo: srib_logo
+    company_logo: org-gc
     location: Bangalore, India
     date_start: '2021-01-01'
     date_end: '2021-08-31'
@@ -50,7 +50,7 @@ experience:
   - title: Research Intern
     company: Indian Institute of Science (IISc)
     company_url: 'https://cps.iisc.ac.in/'
-    company_logo: iisc_logo
+    company_logo: org-gc
     location: Bangalore, India
     date_start: '2020-07-01'
     date_end: '2021-01-31'
@@ -61,7 +61,7 @@ experience:
   - title: Machine Learning Intern
     company: Zujo
     company_url: 'https://www.zujo.co/'
-    company_logo: zujo_logo
+    company_logo: org-gc
     location: Surat, India
     date_start: '2019-05-01'
     date_end: '2020-01-31'
