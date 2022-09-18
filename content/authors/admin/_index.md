@@ -69,4 +69,4 @@ highlight_name: true
 Hey!
 I am Abhinav Jain, a PhD student at Oregon State University working under Dr. Cindy Grimm, and Dr. Stefan Lee. I have previous work experience working as an Engineer at Samsung R&D, Bangalore, India. I am working in the AgAID grant which collaborates AI and agriculture. I want to make robots smarter, and compliant to the ever changing world. Currently I am working on control using Reinforcement Learning for the task of pruning trees in an orchard.)
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
