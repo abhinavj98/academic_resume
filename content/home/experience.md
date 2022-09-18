@@ -36,19 +36,6 @@ experience:
         * Development of simulator to mimic tree growth as those in orchards
         * Developing a Sim2Real pipeline to achieve the task of Robotic pruning using an arm and RL
         
-  - title: Engineer
-    company: Samsung R&D
-    company_url: 'https://research.samsung.com/sri-b'
-    company_logo: srib_logo
-    location: Bangalore, India
-    date_start: '2021-01-01'
-    date_end: '2021-08-31'
-    description:|2-
-     
-        * Engineer in the 5G NR MAC team
-        * Contributed by writing Unit Tests and Block Tests according to the Google Test framework and increasing the Test coverage metric from 2.1 to 3.2, beyond the required threshold of 3
-        * Awarded Software Professional Certification for skills in Data Structure and Algorithms
-
 design:
   columns: '3'
 ---
