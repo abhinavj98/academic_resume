@@ -38,7 +38,7 @@ experience:
   - title: Engineer
     company: Samsung R&D
     company_url: 'https://research.samsung.com/sri-b'
-    company_logo: org-gc
+    company_logo: srib_logo
     location: Bangalore, India
     date_start: '2021-01-01'
     date_end: '2021-08-31'
