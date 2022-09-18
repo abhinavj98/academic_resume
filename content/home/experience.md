@@ -61,7 +61,7 @@ experience:
   - title: Machine Learning Intern
     company: Zujo
     company_url: 'https://www.zujo.co/'
-    company_logo: zujo_logo
+    company_logo: org-x
     location: Surat, India
     date_start: '2019-05-01'
     date_end: '2020-01-31'
