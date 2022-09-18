@@ -23,13 +23,13 @@ feature:
   - description: 
     icon: C/C++
     icon_pack: fab
-    name: Python
+    name: C
   - description: 
     icon: chart-line
     icon_pack: fas
-    name: Learning Frameworks (Deep Learning/ Reinforcement Learning)
+    name: Deep Learning/ Reinforcement Learning
   - description: 
-    icon: camera-retro
+    icon: eyes
     icon_pack: fas
     name: Computer Vision
 # Uncomment to use emoji icons.
