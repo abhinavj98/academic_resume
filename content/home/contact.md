@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: abhinav98jain@gmail.com
-  phone: 888 888 88 88
+  #phone: 888 888 88 88
   address:
     street: Oregon State University
     city: Corvallis
