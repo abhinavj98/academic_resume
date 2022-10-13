@@ -23,30 +23,44 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://drive.google.com/file/d/1MY4Dv5zaUK8K2P4q1tZnMtJec6q71ziI/view?usp=sharing
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: ''
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://drive.google.com/file/d/16dMZQnydqpRm4JPlhFP_eyhDq0IlGx9J/view?usp=sharing
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: ''
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Improving Deep Neural Networks 
     url: ''
+  - certificate_url: https://drive.google.com/file/d/1GcgRq1SAx2prssuq1ES0yH6da6st9uxe/view?usp=sharing
+    date_start: ''
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Convolutional Neural Networks
+    url: ''
+  - certificate_url: https://drive.google.com/file/d/1JQYWqKy9kV0bbmO0NxH63luWK4Nlqotf/view?usp=sharing
+    date_start: ''
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Introduction to Tensorflow 
+    url: ''
+  - certificate_url: https://drive.google.com/file/d/1Okqjb8O0YHDuWP6L8oLMwmwdlBePll-1/view?usp=sharing
+    date_start: ''
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Stanford University Machine Learning
+    url: ''
+  
 
 design:
   columns: '2'
