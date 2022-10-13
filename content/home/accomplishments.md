@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: https://drive.google.com/file/d/1MY4Dv5zaUK8K2P4q1tZnMtJec6q71ziI/view?usp=sharing
-    date_end: '2019'
+    date_end: 'Jan 2019'
     date_start: ''
     description: ''
     organization: Coursera
@@ -32,7 +32,7 @@ item:
     title: Neural Networks and Deep Learning
     url: ''
   - certificate_url: https://drive.google.com/file/d/16dMZQnydqpRm4JPlhFP_eyhDq0IlGx9J/view?usp=sharing
-    date_end: '2019'
+    date_end: 'Jan 2019'
     date_start: ''
     description: ''
     organization: Coursera
@@ -40,21 +40,21 @@ item:
     title: Improving Deep Neural Networks 
     url: ''
   - certificate_url: https://drive.google.com/file/d/1GcgRq1SAx2prssuq1ES0yH6da6st9uxe/view?usp=sharing
-    date_start: '2019'
+    date_start: 'Jan 2019'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Convolutional Neural Networks
     url: ''
   - certificate_url: https://drive.google.com/file/d/1JQYWqKy9kV0bbmO0NxH63luWK4Nlqotf/view?usp=sharing
-    date_start: '2019'
+    date_start: 'Jan 2019'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Introduction to Tensorflow 
     url: ''
   - certificate_url: https://drive.google.com/file/d/1Okqjb8O0YHDuWP6L8oLMwmwdlBePll-1/view?usp=sharing
-    date_start: '2019'
+    date_start: 'Jan 2019'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
