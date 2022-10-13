@@ -32,8 +32,8 @@ item:
     title: Neural Networks and Deep Learning
     url: ''
   - certificate_url: https://drive.google.com/file/d/16dMZQnydqpRm4JPlhFP_eyhDq0IlGx9J/view?usp=sharing
-    date_end: '2019-01-01'
-    date_start: ''
+    #date_end: '2019-01-01'
+    date_start: '2019-01-01'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
